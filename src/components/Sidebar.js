@@ -20,9 +20,6 @@ const Sidebar = () => {
 			{playlists?.items?.map(playlist => (
 				<SidebarOption option={playlist.name} />
 			))}
-			<SidebarOption option="Hip Hop" />
-			<SidebarOption option="R&B" />
-			<SidebarOption option="Trap" />
 		</div>
 	)
 }

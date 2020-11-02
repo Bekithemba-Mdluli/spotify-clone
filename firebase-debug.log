@@ -1,0 +1,25 @@
+[debug] [2020-10-19T14:48:10.786Z] ----------------------------------------------------------------------
+[debug] [2020-10-19T14:48:10.795Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\vinta\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-10-19T14:48:10.796Z] CLI Version:   8.12.1
+[debug] [2020-10-19T14:48:10.796Z] Platform:      win32
+[debug] [2020-10-19T14:48:10.797Z] Node Version:  v12.18.3
+[debug] [2020-10-19T14:48:10.799Z] Time:          Mon Oct 19 2020 16:48:10 GMT+0200 (South Africa Standard Time)
+[debug] [2020-10-19T14:48:10.799Z] ----------------------------------------------------------------------
+[debug] [2020-10-19T14:48:10.800Z] 
+[debug] [2020-10-19T14:48:10.827Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-19T14:48:10.829Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\vinta\Documents\spotify-clone
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
